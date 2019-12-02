@@ -31,7 +31,7 @@ A walkthrough our data preprocessing process to ensure that our results is based
 
 ### Pipeline
 Visualization of our preprocessing for the data set.
-![alt text](https://ibb.co/GCsY2JQ "Data Preprocessing Pipeline")
+![Image](https://github.com/aligredo/wubbalubbadubdub.github.io/blob/master/Data/Preprocessing%20Sequence.png "Data Preprocessing Pipeline")
 
 ### Handling Duplicate Values
 We found out that the number of rows is greater than the number of apps, which intuitively implies that there are duplicate values in the data set, so we decided to drop the duplicate rows from our data set.

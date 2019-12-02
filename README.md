@@ -31,7 +31,7 @@ A walkthrough our data preprocessing process to ensure that our results is based
 
 ### Pipeline
 Visualization of our preprocessing for the data set.
-![Image](https://github.com/aligredo/wubbalubbadubdub.github.io/blob/master/Data/Preprocessing%20Sequence.png "Data Preprocessing Pipeline")
+![Image](https://raw.githubusercontent.com/aligredo/wubbalubbadubdub.github.io/master/Data/Preprocessing%20Sequence.png "Data Preprocessing Pipeline")
 
 ### Handling Duplicate Values
 We found out that the number of rows is greater than the number of apps, which intuitively implies that there are duplicate values in the data set, so we decided to drop the duplicate rows from our data set.
@@ -47,7 +47,7 @@ We removed the '$' from the price column and '+' form the downloads column to be
 ### Which app type is most commonly added to Android Store (Free vs Paid)?
 We visualized the number of the free apps versus the paid apps on the Play Store.
 
-![plot1](https://github.com/aligredo/wubbalubbadubdub.github.io/blob/master/Data/plot1.png "Free vs. Paid Apps")
+![plot1](https://raw.githubusercontent.com/aligredo/wubbalubbadubdub.github.io/master/Data/plot1.png "Free vs. Paid Apps")
 
 As observed about 80% of the apps on the store are free while the rest 20% are paid apps.
 

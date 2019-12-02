@@ -36,12 +36,17 @@ Visualization of our preprocessing for the data set.
 ### Handling Duplicate Values
 We found out that the number of rows is greater than the number of apps, which intuitively implies that there are duplicate values in the data set, so we decided to drop the duplicate rows from our data set.
 
-### Handling Messing Values
+### Handling Missing Values
 We found 1481 missing rows that have missing values in them. We could not afford dropping all those apps data, since they represent about 15% of the whole data set. As most of the missing values were from the ratings column -about 99%- we decided to put the mean of ratings of the application's category, however since the rest of the missing values were too few we decided to get them manually from the Play Store. Finally we had only 12 records that we were unable to replace the null values appropriately, for those we decided to drop them.
 
 ### Feature Engineering 
 We removed the '$' from the price column and '+' form the downloads column to be able to perform analysis easily on both of those columns, and we renamed the columns to match the new type of the values. Futhermore, we created a new column which represents the number of days passed since the last update was released for that app in order to make it easier for our analysis process.
 
+## Data Analysis 
 
+### Which app type is most commonly added to Android Store (Free vs Paid)?\
+We visualized the number of the free apps versus the paid apps on the Play Store.
+
+![plot1](/Data/plot1.png "Free vs. Paid Apps")
 
 

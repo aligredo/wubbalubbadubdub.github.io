@@ -44,9 +44,12 @@ We removed the '$' from the price column and '+' form the downloads column to be
 
 ## Data Analysis 
 
-### Which app type is most commonly added to Android Store (Free vs Paid)?\
+### Which app type is most commonly added to Android Store (Free vs Paid)?
 We visualized the number of the free apps versus the paid apps on the Play Store.
 
 ![plot1](/Data/plot1.png "Free vs. Paid Apps")
+
+As observed about 80% of the apps on the store are free while the rest 20% are paid apps.
+
 
 

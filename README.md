@@ -3,11 +3,11 @@
 ## Who Are We?
 A team of students enrolled in Data Engineering course at The German University in Cairo teached and supervised by [Assoc. Prof. Mervat Abuelkheir](http://met.guc.edu.eg/People/Profile.aspx?facId=3179 "MET website profile").
 ### Team Members
-- Engy Fawaz
-- Dina Hisham
-- Mohamed Maher
-- Wessam Ali
-- Ali Ahmed
+- [Engy Fawaz](https://github.com/EngyFawaz)
+- [Dina Hisham](https://github.com/DinaElkafrawy)
+- [Mohamed Maher](https://github.com/MoeMaher)
+- [Wessam Ali](https://github.com/wessam611)
+- [Ali Ahmed](https://github.com/aligredo)
 
 ## Overview and Motivation 
 The Android applications market has been very competetive with a lot of available applications in various categories. Therefore, it is very important to have full understanding of the market needs before developing an application. Our goal is to construct a business guideline for developing  an application and publishing it to the market which is the Google Play Store. Moreover, one of the most important reasons that inspired us to analyze the Google Android Store is that a member of the team is a game developer who has a game application published on Google Android Store and we were curious how could we reach highest success for this game application.
@@ -100,5 +100,17 @@ From this multiple bar chart, we can see who are the application targeted audien
 This Line-plot shows that there is a positive relation between frequency of updating applications and number of installs.
 
 ![plot10](https://raw.githubusercontent.com/aligredo/wubbalubbadubdub.github.io/master/Data/plot10.png "Updates and Downloads")
+
+## Conclusion
+- 92% of available applications in Play Store are free.
+- All categories available are succeeding with similar mean values of ratings. 
+- Event Apps have the highest ratings mean while Dating Apps have lowest ratings mean.
+- No noticeable difference in ratings between free and paid apps.
+- Percentage of paid apps is peaking in medical and personalization categories, although their number of installs are very low in comparison with other categories.
+- Highest number of installs in paid apps are in communication, social and video players categories.
+- Paid apps are not installed as much as free apps.
+- A positive correlation exists between the number of reviews and the number of installs. Users tend to install apps that are reviewed by a large number of people.
+- Most of the paid apps which have high ratings, are of small sizes. This could refer that for a more successful paid app, it is advisable to consider the size to be relatively small.
+- A positive relation exists between frequency of updating applications and number of installs.
 
 ## And That's All You Need To Know Before You Start Developing Your APP!

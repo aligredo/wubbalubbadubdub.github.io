@@ -1,5 +1,6 @@
 # Wubba Lubba Dub Dub!
-
+[Project Repo](https://github.com/EngyFawaz/AndroidAppDataset)
+[Presentation Slides](https://www.canva.com/design/DADsx1vnMSI/kLMLtmfoDqMzhxQShq1_tA/view)
 ## Who Are We?
 A team of students enrolled in Data Engineering course at The German University in Cairo teached and supervised by [Assoc. Prof. Mervat Abuelkheir](http://met.guc.edu.eg/People/Profile.aspx?facId=3179 "MET website profile").
 ### Team Members
